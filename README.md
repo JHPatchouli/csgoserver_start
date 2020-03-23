@@ -1,0 +1,2 @@
+# csgoserver_start
+一款可以轻松管理和启动你的csgo服务器的脚本
