@@ -1,0 +1,5 @@
+login anonymous
+force_install_dir .\csgoserver\
+app_update 740
+
+quit
